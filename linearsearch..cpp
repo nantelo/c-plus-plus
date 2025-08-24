@@ -26,3 +26,4 @@ break;
 if(flag == 0)
 printf("\n The number %d has not been found\n", num);
 }
+
